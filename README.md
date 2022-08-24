@@ -12,6 +12,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 https://github.com/MKismir/kodluyoruzilkrepo.git
 ```
 
+```bash
+https://app.patika.dev/referral/mahmutkismir
+```
+
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
